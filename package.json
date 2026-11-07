@@ -1,0 +1,20 @@
+{
+  "name": "ts-column-store",
+  "version": "1.0.0",
+  "description": "Columnar storage engine with run-length and delta encoding",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "column-store", "analytics", "database", "compression"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-column-store.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
